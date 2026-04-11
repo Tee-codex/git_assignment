@@ -1,0 +1,3 @@
+Git is a version control system
+It helps to manage code development within a team
+Every member can contribute, review, and develpo the codes.
